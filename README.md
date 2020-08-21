@@ -1,57 +1,16 @@
-# Project Name
+# Micrsoft Hardware Experience
+The Microsoft Hardware Experience app allows users to visualize Microsoft and partner device hardware in 3D utilizing augmented reality. 
+Users can see first-hand devices with rendered 3D models to show size, dimension, and texture in order to see how it can fit into any environment of their choice.
 
-(short, 1-3 sentenced, description of the project)
+## Support Info and troubleshooting
+If you experience any issues or have a feature requests please feel free to add a new issue to this GitHub repository. If you're new to GitHub please follow the steps
+outlined down below. 
 
-## Features
+1. Click on "Issue"
+2. Click on "New Issue
 
-This project framework provides the following features:
+<img width="682" alt="issue1" src="https://user-images.githubusercontent.com/15527062/90934514-48040f00-e3b6-11ea-880d-655f2e528f5c.png">
 
-* Feature 1
-* Feature 2
-* ...
+If you experience a problem click on "Get started" in the Bug Report category. If you like to submit a feature request click on "Get started" in the seconde row.
 
-## Getting Started
-
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+<img width="682" alt="issue1" src="https://user-images.githubusercontent.com/15527062/90934562-5e11cf80-e3b6-11ea-9216-38b9ade55f4c.png">
